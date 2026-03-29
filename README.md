@@ -15,12 +15,12 @@
     -   **전국초중등학교위치표준데이터.csv**: 국내 학교 데이터
     -   **school_counts_processed.csv**: 학교 데이터 1차 전처리.
     -   **school_counts_sigungu.csv**: 학교 데이터 시군구 단위 2차 전처리.
-    -   **apart_master_final_2026.csv**: 전처리 데이터 통합 및 처리.
-    -   **apart_master_final_2026_2.csv**: 통합 전처리 데이터 변수명 수정.
-    -   **apart_master_final_2026_3.csv**: 통합 전처리 데이터 변수 정렬.
-    -   **apart_master_final_2026_4.csv**: 통합 전처리 데이터 샘플링.
-    -   **apart_master_final_2026_5.csv**: 통합 전처리 데이터 샘플ID 추가.
-    -   **apart_fixed_master.csv**: 통합 전처리 데이터 최종 필터링.
+    -   **apart_master_final_2026.csv**: 전처리 데이터 통합 및 처리. (코드 통해 생성 필요)
+    -   **apart_master_final_2026_2.csv**: 통합 전처리 데이터 변수명 수정. (코드 통해 생성 필요)
+    -   **apart_master_final_2026_3.csv**: 통합 전처리 데이터 변수 정렬. (코드 통해 생성 필요)
+    -   **apart_master_final_2026_4.csv**: 통합 전처리 데이터 샘플링. (코드 통해 생성 필요)
+    -   **apart_master_final_2026_5.csv**: 통합 전처리 데이터 샘플ID 추가. (코드 통해 생성 필요)
+    -   **apart_fixed_master.csv**: 통합 전처리 데이터 최종 필터링. (코드 통해 생성 필요)
     -   **region_mapping.csv**: 통합 전처리 데이터 맵핑 파일.
     -   **sido_*.csv**: 통합 전처리 데이터 시도 분리 (e.g., sido_서울특별시.csv, sido_부산광역시.csv).
 
