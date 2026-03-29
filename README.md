@@ -9,17 +9,21 @@
 -   **data folder**: Contains all input and output files for analysis.
     -   **Apart Deal.csv**: 국내 주택 거래 데이터. (https://www.kaggle.com/datasets/brainer3220/korean-real-estate-transaction-data)
     -   **법정동 기준 시군구 단위.csv**: 매칭 목적 시군구 코드.
+
     -   **지하철 역세권 지가지수.csv**: 국내 지하철 지수 데이터
     -   **subway_index_wide_fixed.csv**: 지하철 지수 1차 전처리.
     -   **subway_index_wide_fixed_2.csv**: 지하철 지수 2차 수동 처리.
+
     -   **전국초중등학교위치표준데이터.csv**: 국내 학교 데이터
     -   **school_counts_processed.csv**: 학교 데이터 1차 전처리.
     -   **school_counts_sigungu.csv**: 학교 데이터 시군구 단위 2차 전처리.
+
     -   **apart_master_final_2026.csv**: 전처리 데이터 통합 및 처리. (코드 통해 생성 필요)
     -   **apart_master_final_2026_2.csv**: 통합 전처리 데이터 변수명 수정. (코드 통해 생성 필요)
     -   **apart_master_final_2026_3.csv**: 통합 전처리 데이터 변수 정렬. (코드 통해 생성 필요)
     -   **apart_master_final_2026_4.csv**: 통합 전처리 데이터 샘플링. (코드 통해 생성 필요)
     -   **apart_master_final_2026_5.csv**: 통합 전처리 데이터 샘플ID 추가. (코드 통해 생성 필요)
+
     -   **apart_fixed_master.csv**: 통합 전처리 데이터 최종 필터링. (코드 통해 생성 필요)
     -   **region_mapping.csv**: 통합 전처리 데이터 맵핑 파일.
     -   **sido_*.csv**: 통합 전처리 데이터 시도 분리 (e.g., sido_서울특별시.csv, sido_부산광역시.csv).
